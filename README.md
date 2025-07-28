@@ -1,6 +1,6 @@
 # Amphi Apps Homebrew Tap
 
-This is the official Homebrew tap for Amphi apps.
+This is the custom Homebrew tap for Amphi apps.
 
 ## Installation
 
@@ -23,3 +23,13 @@ brew install amphi-notes
 ```bash
 brew install amphi-music
 ```
+
+## Usage
+
+After installation, you can find the apps in your Applications folder or launch them via Spotlight.
+
+## Issues & Contributions
+
+If you encounter any problems or want to contribute, please open an issue or a pull request in the respective GitHub repositories:
+- [Notes](https://github.com/amphi2024/notes)
+- [Music](https://github.com/amphi2024/music)
