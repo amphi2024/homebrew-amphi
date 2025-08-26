@@ -24,6 +24,12 @@ brew install amphi-notes
 brew install amphi-music
 ```
 
+#### Photos
+
+```bash
+brew install amphi-photos
+```
+
 ## Usage
 
 After installation, you can find the apps in your Applications folder or launch them via Spotlight.
