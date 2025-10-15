@@ -30,6 +30,12 @@ brew install amphi-music
 brew install amphi-photos
 ```
 
+#### Cloud
+
+```bash
+brew install amphi-cloud
+```
+
 ## Usage
 
 After installation, you can find the apps in your Applications folder or launch them via Spotlight.
@@ -40,3 +46,4 @@ If you encounter any problems or want to contribute, please open an issue or a p
 - [Notes](https://github.com/amphi2024/notes)
 - [Music](https://github.com/amphi2024/music)
 - [Photos](https://github.com/amphi2024/photos)
+- [Cloud](https://github.com/amphi2024/cloud)
