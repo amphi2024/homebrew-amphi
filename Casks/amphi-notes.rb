@@ -1,8 +1,8 @@
 cask "amphi-notes" do
-  version "1.1.1"
-  sha256 "b76d52641e0b478c914a8adff8cd1e08c1168e755d4124d4df26e4e4724f4b06"
+  version "2.0.0"
+  sha256 "94ee73b46ddbfcf277f1aa86f34346a8b2be673937329a2b833a0ce249a8bb87"
 
-  url "https://amphi.site/releases/notes/notes-macos-#{version}.dmg"
+  url "https://github.com/amphi2024/notes/releases/download/v#{version}/Notes-#{version}-macOS.dmg"
   name "Amphi Notes"
   desc "Cross-platform note-taking app that enables users to sync their data with a self-hosted server"
   homepage "https://amphi.site"
