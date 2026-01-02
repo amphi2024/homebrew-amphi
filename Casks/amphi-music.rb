@@ -1,8 +1,8 @@
 cask "amphi-music" do
-  version "1.0.0"
-  sha256 "6d8ea9676a6b919ab1efe3b218f44e17d43270b8c74fd1763f57f60dcaa4e0cc"
+  version "2.0.0"
+  sha256 "de6cb521b206fdaba87470e4499161b92158ccc8b9c5d92a197c46052ef8e711"
 
-  url "https://amphi.site/releases/music/music-macos-#{version}.dmg"
+  url "https://github.com/amphi2024/music/releases/download/v#{version}/Music-#{version}-macOS.dmg"
   name "Amphi Music"
   desc "Cross-platform music player with support for syncing libraries via a self-hosted server"
   homepage "https://amphi.site"
