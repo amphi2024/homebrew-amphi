@@ -1,6 +1,6 @@
 cask "amphi-notes" do
-  version "2.0.0"
-  sha256 "94ee73b46ddbfcf277f1aa86f34346a8b2be673937329a2b833a0ce249a8bb87"
+  version "2.1.0"
+  sha256 "05808ee722b99aacde71072c1cbfaacf16884a0f96df08e3ae07d71578e0140a"
 
   url "https://github.com/amphi2024/notes/releases/download/v#{version}/Notes-#{version}-macOS.dmg"
   name "Amphi Notes"
