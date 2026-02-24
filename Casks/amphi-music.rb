@@ -1,6 +1,6 @@
 cask "amphi-music" do
-  version "2.0.0"
-  sha256 "de6cb521b206fdaba87470e4499161b92158ccc8b9c5d92a197c46052ef8e711"
+  version "2.1.0"
+  sha256 "c2fabc9fd3644ab37e99977df18f45d18a196ed0b6ecc3d492049b7d3b2c4ed7"
 
   url "https://github.com/amphi2024/music/releases/download/v#{version}/Music-#{version}-macOS.dmg"
   name "Amphi Music"
