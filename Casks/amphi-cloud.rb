@@ -1,6 +1,6 @@
 cask "amphi-cloud" do
   version "1.0.0"
-  sha256 "86581e28cee741491ecca44e4fc5b875e3228fc2d953366e03fb50f575d74f51"
+  sha256 "ed11186ef17e2cad9bea29a1c5660f296ba9aff9c44ce25bcac137b4ade338f3"
   url "https://github.com/amphi2024/cloud/releases/download/v#{version}/Cloud-#{version}-macOS.dmg"
   name "Amphi Cloud"
   desc "A self-hosted cloud for secure file storage"
