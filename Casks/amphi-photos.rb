@@ -1,6 +1,6 @@
 cask "amphi-photos" do
-  version "2.0.0"
-  sha256 "5b35bf46de8de1eaeff2a10d1e3c6a844ac49cafe607c63666e664c24b2710eb"
+  version "2.1.0"
+  sha256 "457e4e4d6d5645dda89d47a7277f96f2ca15b743c2ee9ca73f3a42ee9551edc5"
   url "https://github.com/amphi2024/photos/releases/download/v#{version}/Photos-#{version}-macOS.dmg"
   name "Amphi Photos"
   desc "Cross-platform photos app with self-hosted sync"
